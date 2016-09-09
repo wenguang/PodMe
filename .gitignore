@@ -37,7 +37,7 @@ xcuserdata/
 Pods/
 Pods
 !Podfile
-!Podfile.lock
+Podfile.lock
 
 # Carthage
 #
